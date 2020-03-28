@@ -1,11 +1,9 @@
-import React from 'react';
+import React from "react";
+import Logon from "./pages/Logon";
+import './global.css';
 
 function App() {
-  return (
-    <div className="App">
-      
-    </div>
-  );
+	return <Logon />;
 }
 
 export default App;
